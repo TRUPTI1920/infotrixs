@@ -1,0 +1,2 @@
+# infotrixs
+Hello everyone This is the project on the Employee MANAGEMENT SYSTEM. It is a command-line-based employee management system. This system provides a centralized location to store all essential employee information, such as names, salaries, and IDs. This reduces the need for manual record-keeping and minimizes the risk of data loss. I Hope you will enjoy the project and get something new to learn.
